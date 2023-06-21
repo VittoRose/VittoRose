@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and control engeneering
 - 🌱 I’m currently learning Arduino and embedded systems
 - 📫 How to reach me @rosellini_vittorio on Instagram
-- ✨ I'm currently working for ESA PETRI program as a member of the DEPLOY! team
+- ✨ I am currently employed with the European Space Agency (ESA) PETRI program, where I hold the position of a System Engineer within the esteemed DEPLOY! team.
 
 <!---
 VittoRose/VittoRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
